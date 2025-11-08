@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Olamide Akiode
 
-<!--
-**oliman21/oliman21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 **Cybersecurity Analyst | Tech Enthusiast | Problem Solver**
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!  
+I'm passionate about **cybersecurity**, **network defense**, and **ethical hacking**.  
+I enjoy exploring tools, frameworks, and strategies that strengthen digital security and protect data integrity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Skills
+- **Core Areas:** Cybersecurity Analysis, Risk Assessment, Incident Response  
+- **Tools:** Wireshark, Metasploit, Nmap, Burp Suite, Splunk  
+- **Languages:** Python, Bash, SQL  
+- **Concepts:** Threat Intelligence, Network Security, Vulnerability Management  
+
+---
+
+### 🌱 Currently Exploring
+- Cloud Security (AWS & Azure)
+- Security Automation with Python
+- Advanced Penetration Testing
+
+---
+
+### 📫 Connect With Me
+- 💼 [LinkedIn Profile](http://www.linkedin.com/in/olamide-akiode-b5a3a1388)
+- 🧑‍💻 GitHub: [github.com/olamide-akiode](https://github.com/olamide-akiode)
+
+---
+
+### ⚡ Fun Fact
+I believe cybersecurity is not just a career—it’s a mindset of curiosity and continuous learning.  
+
+---
+
+⭐ **“Security is not a product, but a process.” – Bruce Schneier**
